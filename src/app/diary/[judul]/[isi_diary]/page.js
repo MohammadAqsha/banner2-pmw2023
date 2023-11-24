@@ -1,4 +1,4 @@
-import "@styles/diarypost.css";
+import "../../style/diary.css";
 
 export default function DiaryPost({params}) {
     const {judul, isi_diary} = params
